@@ -2,7 +2,7 @@
 
 
 
-# [Project Name] 🎯
+# phishguard 🎯
 
 
 ## Basic Details
