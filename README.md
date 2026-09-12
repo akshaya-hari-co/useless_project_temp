@@ -44,10 +44,10 @@ For Software:
 ![Screenshot1](https://drive.google.com/file/d/140Z8y2Vilk0lwD9B83BkmVdHOu-cpK_l/view?usp=drive_link)
 it shows the interface of the final product
 
-![Screenshot2](Add screenshot 2 here with proper name)
+![Screenshot2](https://drive.google.com/file/d/140Z8y2Vilk0lwD9B83BkmVdHOu-cpK_l/view?usp=drive_link)
 *Add caption explaining what this shows*
 
-![Screenshot3](Add screenshot 3 here with proper name)
+![Screenshot3](https://drive.google.com/file/d/140Z8y2Vilk0lwD9B83BkmVdHOu-cpK_l/view?usp=drive_link)
 *Add caption explaining what this shows*
 
 ### Project Demo
