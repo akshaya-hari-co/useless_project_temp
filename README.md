@@ -18,23 +18,24 @@
 [The product verifies whether a site is authentic or fake copy]
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+[fake sites and scamming]
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+[i just noticed my friend got fooled by one,so now ill make sure he has no one to share the pain with as nobody will get scammed]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- [python language]
+- [stream lit]
+- [ipadress
+- re
+- urlparse
+- streamlit]
+- [vs stdio]
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+
+
 
 ### Implementation
 For Software:
