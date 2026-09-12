@@ -6,16 +6,16 @@
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [technology]
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: [Akshaya H] - [ICCSEM injakundu]
+- Member 2: [Adharsh E Nair] - [ICCSEM injakundu]
+
 
 ### Project Description
-[2-3 lines about what your project does]
+[The product verifies whether a site is authentic or fake copy]
 
 ### The Problem (that doesn't exist)
 [What ridiculous problem are you solving?]
